@@ -4,6 +4,7 @@
 public class Viktor {
 
     public void cheer(String a, String b) {
-        System.out.println(a+b);
+        System.out.println("Javaaaaaaaaaaaaaaa"+a + b);
     }
+
 }

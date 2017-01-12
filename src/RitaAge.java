@@ -4,7 +4,8 @@
 public class RitaAge {
     public void count() {
         int age = 28;
-        System.out.println("My age is: " + age + " years");
+        int born = 1988;
+        System.out.println("My age is: " + age + " years, I was born in " + born + ".");
     }
 
 }
