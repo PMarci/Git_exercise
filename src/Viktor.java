@@ -3,7 +3,7 @@
  */
 public class Viktor {
 
-    public void cheer(){
-        System.out.println("Jade");
+    public void cheer(String cheer){
+        System.out.println(cheer);
     }
 }
