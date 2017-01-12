@@ -5,6 +5,7 @@
 public class marciGreet {
 
     void greet() {
-        System.out.println("Greetings!");
+        String m = "Marci";
+        System.out.println("Greetings for" + m + "!");
     }
 }
