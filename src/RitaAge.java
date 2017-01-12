@@ -3,7 +3,8 @@
  */
 public class RitaAge {
     public void count() {
-        System.out.println("My age is: 28 years");
+        int age = 28;
+        System.out.println("My age is: "+ age + " years");
     }
 
 }
