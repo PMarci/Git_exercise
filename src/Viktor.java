@@ -2,10 +2,9 @@
  * Created by Viktor on 2017.01.12..
  */
 public class Viktor {
+  
+    public void cheer(int a) {
+        System.out.println("Cheer for the " + a);
 
-    public void cheer(String a, String b) {
-
-        System.out.println("welcome guys"+a+b);
-    }
-
+  }
 }
