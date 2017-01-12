@@ -3,7 +3,8 @@
  */
 public class RitaAge {
     public void count() {
-        System.out.println("I was born in the 5th month of the year");
+        int age = 28;
+        System.out.println("My age is: " + age + " years");
     }
 
 }
