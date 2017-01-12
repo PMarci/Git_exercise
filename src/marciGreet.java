@@ -4,7 +4,7 @@
  */
 public class marciGreet {
 
-    String greetMarci() {
-        return "Marci";
+    void greet(String parameter) {
+        System.out.println(parameter);
     }
 }
